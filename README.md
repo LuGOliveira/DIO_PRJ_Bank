@@ -1,4 +1,3 @@
-# 
-DIO - Criando uma aplicação de transferências bancárias com .NET
+# DIO - Criando uma aplicação de transferências bancárias com .NET
 
-Aprenda como criar um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar enums.
+Aprendendo a criar um console simples de transferência bancária com utilização do conceito de orientação a objetos e enums.
